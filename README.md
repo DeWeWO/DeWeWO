@@ -21,3 +21,16 @@ Here are some ideas to get you started:
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=DeWeWO&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
+
+
+
+
+
+
+
+
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+</div>
