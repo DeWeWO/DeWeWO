@@ -19,28 +19,25 @@
                 <br>
         </samp>
         <!-- Technologies -->
+        <!-- Python -->
+        <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+        </a>
         <!-- JavaScript -->
         <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
         </a>
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        <!-- php -->
+        <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="php"
+                        src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
         </a>
-        <!-- React -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <!-- Laravel -->
+        <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Laravel"
+                        src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
         </a>
-        <!-- NextJS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
-        </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <!-- phpStorm -->
+        <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="phpStorm"
+                        src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
         </a>
 </p>
 
@@ -85,7 +82,7 @@
 </samp>
 
 
-
+<!--
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -98,6 +95,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DeWeWO.DeWeWO)   
