@@ -20,6 +20,9 @@
         </samp>
         <!-- Technologies -->
         <!-- JavaScript -->
+        <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </a>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
@@ -97,9 +100,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
- <p align="center">
-        ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DeWeWO.DeWeWO)   
-</p>
-
-
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DeWeWO.DeWeWO)   
