@@ -88,7 +88,8 @@
 
 
 ## ⚡ Technologies
-
+![]()
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -104,16 +105,6 @@
 
 
 
-
-
-
-
-
-
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/DeWeWO/count.svg" alt="hit counter" align="center">
-</div>
 
 
 
