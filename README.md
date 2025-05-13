@@ -1,10 +1,7 @@
-<div style="position: absolute; float: right; z-index: 5;">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="Octocat gif">
-</div>
+<div style="display: flex; justify-content: center; align-items: flex-start; position: relative; max-width: 1200px; margin: 0 auto;">
+<img align="right" style="float: right; margin-left: 20px; margin-bottom: 20px;" alt="Git" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-
-<!-- <img align="right" style="float: right; margin-left: 20px; margin-bottom: 20px;" alt="Git" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
-
+<div style="text-align: center; max-width: 600px;">
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/DeWeWO/">DeWeW</a></b>
@@ -71,6 +68,8 @@
                         src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
         </a>
 </p>
+</div>
+</div>
 
 <p align="center">
         <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=DeWeWO&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
