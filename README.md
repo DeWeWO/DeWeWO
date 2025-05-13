@@ -11,7 +11,7 @@
 
 <p align="center">
         <!-- Intro -->
-        <samp>
+        <samp align="center">
                 「 I'm a backend web developer from <b>Uzbekistan</b> 」
                 <br>
                 「 Focused on creating impactful web pages that improve lives</b> 」
