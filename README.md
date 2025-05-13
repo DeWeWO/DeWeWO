@@ -58,7 +58,7 @@
         <p>Find me on</p>
         <!-- Mail -->
         <a href="dewel000per@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
         <!-- Twitter -->
         <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
