@@ -1,4 +1,5 @@
 <img align="right" style="float: right; margin-left: 20px; margin-bottom: 20px;" alt="Git" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<br clear="right">
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
