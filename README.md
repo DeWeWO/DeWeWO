@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/DeWeWO/count.svg" alt="hit counter" align="center">
 </div>
