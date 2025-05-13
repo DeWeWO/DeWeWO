@@ -56,21 +56,17 @@
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
-        <!-- Mail -->
-        <a href="dewel000per@gmail.com" target="_blank"><img alt="Mail"
+        <!-- Gmail -->
+        <a href="dewel000per@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        <!-- Telegram -->
+        <a href="https://" target="_blank"><img alt="Telegram"
+                src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        <!-- Instagram -->
+        <a href="https://" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
         </a>
     </p>
 </details>
@@ -91,6 +87,22 @@
 
 
 
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
+
+
 
 
 
@@ -102,3 +114,7 @@
 <p></p>
 <img src="https://profile-counter.glitch.me/DeWeWO/count.svg" alt="hit counter" align="center">
 </div>
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
