@@ -94,9 +94,9 @@
 </details>
 <br>
 
-<!-- align="left" width="490" height="165" -->
+<!-- align="left" width="490" height="165"; hide_border=true&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true" -->
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=DeWeWO&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=DeWeWO&show_icons=true&hide_border=true&line_height=20&theme=radical&show_owner=true"/>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=DeWeWO&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DeWeWO&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=DeWeWO&theme=darcula&hide_border=true&background=FFFFFF00">
