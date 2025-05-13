@@ -82,6 +82,16 @@
           <br>
         </p>
         <br>
+
+<p align="center">
+	<a href="https://github.com/catppuccin/github-readme-streak-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-streak-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-streak-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+	<img src="assets/preview.webp"/>
+</p>        
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
