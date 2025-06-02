@@ -108,4 +108,8 @@
     </p>
 </samp>
 
+
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DeWeWO.DeWeWO)   
