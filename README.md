@@ -76,6 +76,8 @@
     <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
       <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeWeWO&theme=github_dark" alt="info">
+        <br><br>
         <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=DeWeWO&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
         <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DeWeWO&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
         <img src ="https://github-readme-streak-stats.herokuapp.com?user=DeWeWO&theme=darcula&hide_border=true&background=FFFFFF00">
@@ -109,7 +111,9 @@
 </samp>
 
 
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DeWeWO.DeWeWO)   
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DeWeWO.DeWeWO)
+
+<a href="https://github.com/DeWeWO?tab=followers"><img src="https://img.shields.io/github/followers/DeWeWO?label=Followers&style=social" alt="followers-count"></a>
