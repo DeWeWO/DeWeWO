@@ -23,9 +23,13 @@
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Python"
                 src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </a>
-<!-- JavaScript -->
+<!-- Django -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="JavaScript"
-                src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+                src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+</a>
+<!-- Django Rest -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="JavaScript"
+                src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
 </a>
 <!-- php -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="php"
@@ -35,25 +39,33 @@
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Laravel"
                 src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
+<!-- JavaScript -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="JavaScript"
+                src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
 <!-- phpStorm -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="phpStorm"
                 src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
 </a>
-<!-- phpMyAdmin -->
+<!-- PostgrSQL -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="phpMyAdmin"
-                src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
+                src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+<!-- SQLite -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="phpMyAdmin"
+                src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </a>
 <!-- MySQL -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="MySQL"
                 src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
-<!-- GitHub -->
-<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="GitHub"
-                src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<!-- phpMyAdmin -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="phpMyAdmin"
+                src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 </a>
-<!-- Git -->
-<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Git"
-                src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<!-- MongoDB -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="MySQL"
+                src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
 <!-- HTML5 -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="HTML5"
@@ -67,7 +79,22 @@
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Bootstrap"
                 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
-
+<!-- Docker -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="GitHub"
+                src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+<!-- Postman -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="GitHub"
+                src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</a>
+<!-- GitHub -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="GitHub"
+                src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<!-- Git -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Git"
+                src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</a>
 <br>
 <br>
 
@@ -85,6 +112,10 @@
       </p>
         <!-- Social Links -->
         <p>Find me on</p>
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/ollabergan-zaripboyev-a00b33342/" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
         <!-- Gmail -->
         <a href="dewel000per@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
