@@ -100,7 +100,7 @@
 
 <!-- Details Section -->
 <details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
+    <summary> <samp>&#9776; More Info</samp></summary><br>
     <p align="center">
       <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeWeWO&theme=github_dark" alt="info">
@@ -130,8 +130,9 @@
         </a>
     </p>
 </details>
-<br>
-<br>
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Footer -->
 <samp>
     <p align="center">
@@ -140,10 +141,6 @@
         "Happy Coding👨‍💻"
     </p>
 </samp>
-
-
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DeWeWO.DeWeWO)
 
