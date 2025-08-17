@@ -105,8 +105,9 @@
       <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeWeWO&theme=github_dark" alt="info">
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=DeWeWO&show_icons=true&theme=transparent&hide_border=true">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dewew&layout=compact&theme=transparent&hide_border=true" alt="info">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=DeWeWO&show_icons=true&theme=transparent&hide_border=true">
         <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DeWeWO&layout=compact&hide_border=true&theme=transparent&langs_count=100">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=DeWeWO&theme=tokyonight_duo&hide_border=true">
         <br>
