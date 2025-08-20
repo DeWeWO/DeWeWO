@@ -104,11 +104,11 @@
     <p align="center">
       <p align="center">
         <a href="https://github.com/DeWeWO" target="_blank">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeWeWO&theme=transparent" alt="info">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeWeWO&theme=transparent" alt="git info">
         </a>
         <br>
         <a href="https://wakatime.com/@dewew" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dewew&layout=compact&theme=transparent&hide_border=true" alt="info">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dewew&layout=compact&theme=transparent&hide_border=true" alt="wakatime info">
         </a>
         <br>
         <a href="https://github.com/DeWeWO" target="_blank">
