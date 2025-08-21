@@ -111,6 +111,10 @@
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Ngrok"
                 src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white">
 </a>
+<!-- WakaTime -->
+<a href="https://wakatime.com/@dewew" target="_blank"><img alt="WakaTime"
+                src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white">
+</a>
 <br>
 <br>
 
