@@ -87,6 +87,10 @@
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="GitHub"
                 src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </a>
+<!-- PyPi -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="PyPi"
+                src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
+</a>
 <!-- Postman -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="GitHub"
                 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
