@@ -43,6 +43,10 @@
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="JavaScript"
                 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
+<!-- PyCharm -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="PyCharm"
+                src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+</a>
 <!-- phpStorm -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="phpStorm"
                 src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
@@ -87,6 +91,10 @@
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="GitHub"
                 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </a>
+<!-- Insomnia -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Insomnia"
+                src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+</a>
 <!-- GitHub -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="GitHub"
                 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -94,6 +102,10 @@
 <!-- Git -->
 <a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Git"
                 src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<!-- Ngrok -->
+<a href="https://github.com/DeWeWO?tab=repositories" target="_blank"><img alt="Ngrok"
+                src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white">
 </a>
 <br>
 <br>
