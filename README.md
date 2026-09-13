@@ -35,7 +35,6 @@ class SoftwareEngineer:
   <img src="https://streak-stats.demolab.com?user=DeWeWO&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="175" alt="Contribution Streak" />
 </div>
 
-<br>
 
 <div align="center">
   <picture>
@@ -67,7 +66,7 @@ class SoftwareEngineer:
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Urgench%2C%20Uzbekistan-21262d?style=flat-square&logo=googlemaps&logoColor=58a6ff" alt="Location" />
+  <a href="https://maps.app.goo.gl/LcQLZZZ81PYwaUaM9" target="_blank"><img src="https://img.shields.io/badge/Location-Urgench%2C%20Uzbekistan-21262d?style=flat-square&logo=googlemaps&logoColor=58a6ff" alt="Location" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-21262d?style=flat-square&logo=statuspage&logoColor=3fb950" alt="Status" />
   &nbsp;
