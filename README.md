@@ -47,7 +47,7 @@ class SoftwareEngineer:
 <br>
 
 <div align="center">
-  <img src="https://git-dragon.vercel.app/api/dragon?username=DeWeWO" width="520" alt="Git Dragon Tamagotchi" />
+  <img src="https://git-dragon.vercel.app/api/dragon?username=DeWeWO" width="660" alt="Git Dragon Tamagotchi" />
 </div>
 
 <br>
