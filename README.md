@@ -44,6 +44,18 @@ class SoftwareEngineer:
   </picture>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://git-dragon.vercel.app/api/dragon?username=DeWeWO" alt="Git Dragon Tamagotchi" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/rpg-sheet.svg" alt="RPG Character Sheet" />
+</div>
+
 
 <div align="center">
   <a href="https://t.me/ollabergan_zaripboyev" target="_blank">
