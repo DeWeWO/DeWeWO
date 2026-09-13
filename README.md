@@ -9,20 +9,34 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.handle  = "DeWeW"
-        self.role    = "Software Engineer"
-        self.focus   = "Scalable Systems, High-Performance APIs & Architecture"
-        self.mission = "Engineering resilient, maintainable software with clean code."
+        self.username = "DeWeW"
+        self.fullname = "Ollabergan Zaripboyev"
+        self.role     = "Software Engineer"
+        self.location = "Urgench, Uzbekistan"
+        self.status   = "Open to Opportunities"
+        
+        self.stack = {
+            "backend"     : ["Python", "Django", "Django REST Framework", "PHP", "Laravel"],
+            "frontend"    : ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
+            "databases"   : ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+            "devops"      : ["Docker", "Git", "GitHub Actions", "Linux"],
+            "mobile"      : ["Flutter", "Dart", "Android"],
+            "architecture": ["System Design", "RESTful APIs", "Microservices", "Clean Code"]
+        }
+
+    def get_mission(self):
+        return "Designing resilient, scalable systems with clean and maintainable code."
 ```
 
 ---
 
-### Technical Proficiencies
+### Production Toolchain & Ecosystem
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Backend & APIs</h4>
+      <h4>Server-Side & APIs</h4>
+      <p>High-performance backend services, RESTful architecture, and business logic.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white" alt="DRF" />
@@ -30,9 +44,12 @@ class SoftwareEngineer:
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
     </td>
     <td width="50%" valign="top">
-      <h4>Frontend Development</h4>
+      <h4>Client & Interface</h4>
+      <p>Responsive, dynamic user interfaces and cross-platform mobile apps.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -40,32 +57,22 @@ class SoftwareEngineer:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Databases & Storage</h4>
+      <h4>Data & Storage Systems</h4>
+      <p>Relational and document persistence, schema design, and query optimization.</p>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
     <td width="50%" valign="top">
-      <h4>DevOps & CI/CD</h4>
+      <h4>DevOps, CI/CD & Environments</h4>
+      <p>Containerization, automated pipelines, Linux servers, and API tooling.</p>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Mobile Development</h4>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>Tools & Environments</h4>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
       <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
       <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" alt="PhpStorm" />
     </td>
@@ -77,9 +84,9 @@ class SoftwareEngineer:
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DeWeWO&show_icons=true&hide_rank=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DeWeWO&show_icons=true&hide_rank=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="175" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DeWeWO&layout=compact&hide=PLpgSQL&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=DeWeWO&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="175" alt="Contribution Streak" />
 </div>
 
 <br>
