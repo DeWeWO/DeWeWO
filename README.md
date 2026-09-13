@@ -68,7 +68,7 @@ class SoftwareEngineer:
 <div align="center">
   <a href="https://maps.app.goo.gl/LcQLZZZ81PYwaUaM9" target="_blank"><img src="https://img.shields.io/badge/Location-Urgench%2C%20Uzbekistan-21262d?style=flat-square&logo=googlemaps&logoColor=58a6ff" alt="Location" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-21262d?style=flat-square&logo=statuspage&logoColor=3fb950" alt="Status" />
+  <a href="https://t.me/ollabergan_zaripboyev?text=Assalomu%20alaykum%2C%20Ollabergan!%20Sizga%20ish%2Floyiha%20taklifimiz%20bor%20edi." target="_blank"><img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-21262d?style=flat-square&logo=statuspage&logoColor=3fb950" alt="Status" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=DeWeWO&label=Views&style=flat-square&color=21262d" alt="Views" />
 </div>
