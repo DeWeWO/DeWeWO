@@ -47,13 +47,13 @@ class SoftwareEngineer:
 <br>
 
 <div align="center">
-  <img src="https://git-dragon.vercel.app/api/dragon?username=DeWeWO" alt="Git Dragon Tamagotchi" />
+  <img src="https://git-dragon.vercel.app/api/dragon?username=DeWeWO" width="520" alt="Git Dragon Tamagotchi" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/rpg-sheet.svg" alt="RPG Character Sheet" />
+  <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/rpg-sheet.svg" width="660" alt="RPG Character Sheet" />
 </div>
 
 
