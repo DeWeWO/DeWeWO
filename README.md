@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/DeWeWO">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E_DeWeW;%3E_Software+Engineer;%3E_Engineering+Scalable+Systems" alt="Typing Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E_Hi,+I'm+DeWeW;%3E_Software+Engineer;%3E_Engineering+Scalable+Systems" alt="Typing Terminal" />
   </a>
 
   <p align="center">
@@ -16,15 +16,18 @@
 class SoftwareEngineer:
     def __init__(self):
         self.username = "DeWeW"
+        self.fullname = "Ollabergan Zaripboyev"
         self.role     = "Software Engineer"
         self.location = "Urgench, Uzbekistan"
         self.status   = "Open to Opportunities"
         
         self.stack = {
             "backend"     : ["Python", "Django", "Django REST Framework", "PHP", "Laravel"],
+            "frontend"    : ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
             "databases"   : ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-            "devops"      : ["Docker", "Git", "GitHub Actions", "Linux", "Postman"],
-            "architecture": ["System Design", "Microservices", "API Architecture", "Clean Code"]
+            "devops"      : ["Docker", "Git", "GitHub Actions", "Linux"],
+            "mobile"      : ["Flutter", "Dart", "Android"],
+            "architecture": ["System Design", "RESTful APIs", "Microservices", "Clean Code"]
         }
 
     def get_mission(self):
@@ -46,29 +49,44 @@ class SoftwareEngineer:
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
     </td>
     <td width="50%" valign="top">
+      <h4>Frontend Development</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>Databases & Storage</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>DevOps & Infrastructure</h4>
+      <h4>DevOps & CI/CD</h4>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>Mobile & Frontend</h4>
+      <h4>Mobile Development</h4>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Tools & Environments</h4>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+      <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" alt="PhpStorm" />
     </td>
   </tr>
 </table>
