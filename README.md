@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/DeWeWO">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=%3E_ollabergan_zaripboyev.py;%3E_Backend+Software+Engineer;%3E_Python+%7C+Django+%7C+PHP+%7C+Laravel;%3E_Architecting+Scalable+Backend+Systems" alt="Typing Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E_DeWeW;%3E_Software+Engineer;%3E_Engineering+Scalable+Systems" alt="Typing Terminal" />
   </a>
 
   <p align="center">
@@ -13,22 +13,22 @@
 </div>
 
 ```python
-class BackendEngineer:
+class SoftwareEngineer:
     def __init__(self):
-        self.name     = "Ollabergan Zaripboyev"
-        self.role     = "Backend Software Engineer"
+        self.username = "DeWeW"
+        self.role     = "Software Engineer"
         self.location = "Urgench, Uzbekistan"
-        self.status   = "Available for High-Impact Roles"
+        self.status   = "Open to Opportunities"
         
         self.stack = {
             "backend"     : ["Python", "Django", "Django REST Framework", "PHP", "Laravel"],
             "databases"   : ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
             "devops"      : ["Docker", "Git", "GitHub Actions", "Linux", "Postman"],
-            "architecture": ["RESTful APIs", "Microservices", "Query Optimization", "Clean Code"]
+            "architecture": ["System Design", "Microservices", "API Architecture", "Clean Code"]
         }
 
     def get_mission(self):
-        return "Designing resilient, scalable server architectures with optimal performance."
+        return "Designing resilient, scalable systems with clean and maintainable code."
 ```
 
 ---
