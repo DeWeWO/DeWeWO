@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/DeWeWO">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E_Hi,+I'm+DeWeW;%3E_Software+Engineer;%3E_Engineering+Scalable+Systems" alt="Typing Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=%3E_whoami:+DeWeW;%3E_role:+Software+Engineer;%3E_mission:+Engineering+Scalable+Systems" alt="Typing Terminal" />
   </a>
 
   <p align="center">
