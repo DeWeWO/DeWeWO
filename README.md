@@ -1,132 +1,85 @@
 <div align="center">
-  <img align="right" width="160" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Octocat animation" />
 
   <a href="https://github.com/DeWeWO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Salom,+men+Ollabergan!+%F0%9F%91%8B;Backend+Web+Developer;Python+%7C+Django+%7C+PHP+%7C+Laravel;Building+Scalable+%26+Secure+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Ollabergan+Zaripboyev;Backend+Software+Engineer;Python+%E2%80%A2+Django+%E2%80%A2+PHP+%E2%80%A2+Laravel;Architecting+Scalable+Backend+Systems" alt="Typing Banner" />
   </a>
 
   <p align="center">
-    <em>"Real eyes, Realize, Real lies"</em><br>
-    📍 <strong>Urgench, Uzbekistan</strong> • 🚀 Focused on creating impactful backend solutions
+    <code>Backend Architecture</code> &nbsp;|&nbsp;
+    <code>RESTful APIs</code> &nbsp;|&nbsp;
+    <code>Database Optimization</code>
   </p>
 
   <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=DeWeWO&label=PROFILE+VIEWS&style=flat-square&color=22c55e">
-      <img src="https://komarev.com/ghpvc/?username=DeWeWO&label=PROFILE+VIEWS&style=flat-square&color=22c55e" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/DeWeWO?tab=followers">
-      <img src="https://img.shields.io/github/followers/DeWeWO?label=Followers&style=flat-square&color=38bdf8" alt="Followers" />
-    </a>
+    <img src="https://img.shields.io/badge/Location-Urgench%2C%20Uzbekistan-161b22?style=flat-square&logo=googlemaps&logoColor=58a6ff" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-161b22?style=flat-square&logo=statuspage&logoColor=3fb950" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=DeWeWO&label=Views&style=flat-square&color=161b22" alt="Views" />
   </p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### Profile Overview
 
-- 🔭 I'm a **Backend Web Developer** focused on building high-performance, maintainable web systems and APIs.
-- ⚙️ Primary stack: **Python (Django, DRF)** & **PHP (Laravel)**, backed by relational and NoSQL databases.
-- 🌱 Constantly exploring system architecture, query optimization, and containerized deployments.
-- 💬 Open for discussions on **backend development, database architecture, and RESTful API integrations**.
+Backend Software Engineer specializing in scalable server-side systems, RESTful API architecture, and database design. Focused on clean code, SOLID principles, high-throughput application performance, and maintainable software architecture.
 
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,php,laravel,postgres,mysql,mongodb,docker,git,github,postman,js,html,css,bootstrap,flutter,dart,android&perline=9" alt="Tech Stack Icons" />
-</p>
-
-<details open>
-<summary><strong>🗂️ Detailed Categorized Badges</strong></summary>
-<br>
-
-**⚙️ Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
-
-**🗄️ Databases & Storage**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-**🛠️ DevOps, Tools & IDEs**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" />
-  <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok" />
-</p>
-
-**📱 Mobile & Frontend**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-</details>
+- **Primary Focus**: Distributed backend systems, asynchronous workflows, and database query optimization.
+- **Core Technologies**: Python ecosystem (Django, Django REST Framework), PHP (Laravel), SQL & NoSQL data stores.
+- **Engineering Philosophy**: Code readability, automated testing, and resilient infrastructure.
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### Technical Proficiencies
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & APIs** | <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/Django-161b22?style=flat-square&logo=django&logoColor=092E20" alt="Django" /> <img src="https://img.shields.io/badge/Django_REST-161b22?style=flat-square&logo=django&logoColor=white" alt="DRF" /> <img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-161b22?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" /> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" /> <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> |
+| **DevOps & Tooling** | <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /> <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" /> <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> |
+| **Mobile & Frontend** | <img src="https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" /> |
+
+---
+
+### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DeWeWO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="DeWeWO GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DeWeWO&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DeWeWO&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DeWeWO&layout=compact&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=DeWeWO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DeWeWO&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="Contribution Streak" />
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeWeWO/DeWeWO/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeWeWO/DeWeWO/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### Connect
 
 <div align="center">
   <a href="https://t.me/ollabergan_zaripboyev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-161b22?style=flat-square&logo=telegram&logoColor=2CA5E0" alt="Telegram" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ollabergan-zaripboyev-a00b33342/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="mailto:dewel000per@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  &nbsp;
+  <a href="mailto:dewel000per@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/_ollabergan_zaripboyev_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <samp>🚀 Keep building, keep learning • <strong>Happy Coding!</strong> 💻</samp>
 </div>
