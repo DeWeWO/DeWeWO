@@ -30,28 +30,6 @@ class SoftwareEngineer:
 
 ---
 
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/DeWeWO/president_rag" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DeWeWO&repo=president_rag&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="120" alt="president_rag" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DeWeWO/BlogAPI" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DeWeWO&repo=BlogAPI&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="120" alt="BlogAPI" />
-  </a>
-  <br><br>
-  <a href="https://github.com/DeWeWO/bot_Register" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DeWeWO&repo=bot_Register&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="120" alt="bot_Register" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DeWeWO/FizikaT-bot" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DeWeWO&repo=FizikaT-bot&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="120" alt="FizikaT-bot" />
-  </a>
-</div>
-
----
-
 ### GitHub Analytics
 
 <div align="center">
