@@ -53,7 +53,7 @@ class SoftwareEngineer:
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/rpg-sheet.svg" width="660" alt="RPG Character Sheet" />
+  <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/rpg-sheet-v2.svg" width="100%" alt="RPG Character Sheet" />
 </div>
 
 
