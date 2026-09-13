@@ -28,9 +28,6 @@ class SoftwareEngineer:
         return "Designing resilient, scalable systems with clean and maintainable code."
 ```
 
----
-
-### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=DeWeWO&show_icons=true&hide_rank=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="175" alt="GitHub Stats" />
@@ -48,25 +45,22 @@ class SoftwareEngineer:
   </picture>
 </div>
 
----
-
-### Connect
 
 <div align="center">
   <a href="https://t.me/ollabergan_zaripboyev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="45" height="45" alt="Telegram" />
+    <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/icons/telegram.svg" width="45" height="45" alt="Telegram" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ollabergan-zaripboyev-a00b33342/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/icons/linkedin.svg" width="45" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:dewel000per@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/icons/gmail.svg" width="45" height="45" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_ollabergan_zaripboyev_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/icons/instagram.svg" width="45" height="45" alt="Instagram" />
   </a>
 </div>
 
