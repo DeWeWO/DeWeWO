@@ -6,27 +6,9 @@
 
 </div>
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.username = "DeWeW"
-        self.fullname = "Ollabergan Zaripboyev"
-        self.role     = "Software Engineer"
-        self.location = "Urgench, Uzbekistan"
-        self.status   = "Open to Opportunities"
-        
-        self.stack = {
-            "backend"     : ["Python", "Django", "Django REST Framework", "PHP", "Laravel"],
-            "frontend"    : ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
-            "databases"   : ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-            "devops"      : ["Docker", "Git", "GitHub Actions", "Linux"],
-            "mobile"      : ["Flutter", "Dart", "Android"],
-            "architecture": ["System Design", "RESTful APIs", "Microservices", "Clean Code"]
-        }
-
-    def get_mission(self):
-        return "Designing resilient, scalable systems with clean and maintainable code."
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/terminal-code.svg" width="100%" alt="Terminal Code" />
+</div>
 
 
 <div align="center">
