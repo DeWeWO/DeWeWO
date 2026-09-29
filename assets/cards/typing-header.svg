@@ -1,0 +1,33 @@
+<svg width="780" height="130" viewBox="0 0 780 130" xmlns="http://www.w3.org/2000/svg">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+  .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Consolas', monospace; }
+  
+  @keyframes type {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+  
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+  
+  .cursor { animation: blink 1s infinite; }
+</style>
+<defs>
+  <clipPath id="c1"><rect width="0" height="40"><animate attributeName="width" from="0" to="600" dur="0.8s" begin="0.2s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c2"><rect width="0" height="40"><animate attributeName="width" from="0" to="600" dur="0.8s" begin="1.2s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c3"><rect width="0" height="40"><animate attributeName="width" from="0" to="600" dur="0.8s" begin="2.2s" fill="freeze"/></rect></clipPath>
+</defs>
+<g transform="translate(120, 20)" clip-path="url(#c1)">
+<text y="24" font-size="22" font-weight="700" class="mono"><tspan fill="#58a6ff">&gt;</tspan><tspan fill="#484f58">_whoami : </tspan><tspan fill="#38bdf8">DeWeW</tspan></text>
+</g>
+<g transform="translate(120, 55)" clip-path="url(#c2)">
+<text y="24" font-size="22" font-weight="700" class="mono"><tspan fill="#58a6ff">&gt;</tspan><tspan fill="#484f58">_role   : </tspan><tspan fill="#3fb950">Software Engineer</tspan></text>
+</g>
+<g transform="translate(120, 90)" clip-path="url(#c3)">
+<text y="24" font-size="22" font-weight="700" class="mono"><tspan fill="#58a6ff">&gt;</tspan><tspan fill="#484f58">_mission: </tspan><tspan fill="#58a6ff">Engineering Scalable Systems</tspan></text>
+<rect x="545" y="4" width="12" height="24" fill="#58a6ff" class="cursor"><animate attributeName="opacity" values="0;0;1;1" dur="2.4s" fill="freeze"/></rect>
+</g>
+</svg>
