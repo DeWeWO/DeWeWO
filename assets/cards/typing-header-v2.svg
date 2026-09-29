@@ -1,0 +1,53 @@
+<svg width="780" height="60" viewBox="0 0 780 60" xmlns="http://www.w3.org/2000/svg">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&amp;display=swap');
+  .mono { font-family: 'JetBrains Mono', monospace; font-weight: 700; }
+</style>
+<defs>
+
+    <clipPath id="clip0">
+        <rect x="0" y="-10" height="40" width="0">
+            <animate attributeName="width" values="0; 235; 235; 0" keyTimes="0; 0.3; 0.85; 1" dur="3s" repeatCount="indefinite" />
+        </rect>
+    </clipPath>
+    
+
+    <clipPath id="clip1">
+        <rect x="0" y="-10" height="40" width="0">
+            <animate attributeName="width" values="0; 408; 408; 0" keyTimes="0; 0.3; 0.85; 1" dur="3s" repeatCount="indefinite" />
+        </rect>
+    </clipPath>
+    
+
+    <clipPath id="clip2">
+        <rect x="0" y="-10" height="40" width="0">
+            <animate attributeName="width" values="0; 581; 581; 0" keyTimes="0; 0.3; 0.85; 1" dur="3s" repeatCount="indefinite" />
+        </rect>
+    </clipPath>
+    
+</defs>
+<g transform="translate(100, 15)">
+  <animate attributeName="opacity" values="1;0;0" keyTimes="0; 0.3333; 1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+  <text y="24" font-size="24" class="mono" clip-path="url(#clip0)"><tspan fill="#58a6ff">&gt;</tspan><tspan fill="#484f58">_whoami : </tspan><tspan fill="#38bdf8">DeWeW</tspan></text>
+  <rect y="4" height="24" width="12" fill="#58a6ff">
+    <animate attributeName="x" values="0; 230; 230; 0" keyTimes="0; 0.3; 0.85; 1" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" calcMode="discrete" />
+  </rect>
+</g>
+<g transform="translate(100, 15)">
+  <animate attributeName="opacity" values="0;1;0;0" keyTimes="0; 0.3333; 0.6666; 1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+  <text y="24" font-size="24" class="mono" clip-path="url(#clip1)"><tspan fill="#58a6ff">&gt;</tspan><tspan fill="#484f58">_role   : </tspan><tspan fill="#3fb950">Software Engineer</tspan></text>
+  <rect y="4" height="24" width="12" fill="#58a6ff">
+    <animate attributeName="x" values="0; 403; 403; 0" keyTimes="0; 0.3; 0.85; 1" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" calcMode="discrete" />
+  </rect>
+</g>
+<g transform="translate(100, 15)">
+  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0; 0.3333; 0.6666; 1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+  <text y="24" font-size="24" class="mono" clip-path="url(#clip2)"><tspan fill="#58a6ff">&gt;</tspan><tspan fill="#484f58">_mission: </tspan><tspan fill="#58a6ff">Engineering Scalable Systems</tspan></text>
+  <rect y="4" height="24" width="12" fill="#58a6ff">
+    <animate attributeName="x" values="0; 576; 576; 0" keyTimes="0; 0.3; 0.85; 1" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" calcMode="discrete" />
+  </rect>
+</g>
+</svg>

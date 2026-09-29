@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/DeWeWO">
-    <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/typing-header.svg" alt="Typing Terminal" />
+    <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/typing-header-v2.svg" alt="Typing Terminal" />
   </a>
 
 </div>
@@ -55,5 +55,6 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=DeWeWO&label=Views&style=flat-square&color=21262d" alt="Views" />
 </div>
+
 
 
