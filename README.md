@@ -10,6 +10,7 @@
   <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/terminal-code.svg" width="100%" alt="Terminal Code" />
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=DeWeWO&show_icons=true&hide_rank=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="175" alt="GitHub Stats" />
@@ -17,19 +18,12 @@
   <img src="https://streak-stats.demolab.com?user=DeWeWO&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="175" alt="Contribution Streak" />
 </div>
 
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeWeWO/DeWeWO/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeWeWO/DeWeWO/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://git-dragon.vercel.app/api/dragon?username=DeWeWO" width="660" alt="Git Dragon Tamagotchi" />
 </div>
 
 <br>
