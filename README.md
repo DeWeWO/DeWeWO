@@ -1,12 +1,4 @@
 <div align="center">
-
-  <a href="https://github.com/DeWeWO">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=660&lines=%3E_whoami:+DeWeW;%3E_role:+Software+Engineer;%3E_mission:+Engineering+Scalable+Systems" alt="Typing Terminal" />
-  </a>
-
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/terminal-code.svg" width="100%" alt="Terminal Code" />
 </div>
 
