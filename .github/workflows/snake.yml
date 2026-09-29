@@ -24,7 +24,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#0d1117,#1e3a8a,#2563eb,#3b82f6,#38bdf8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#161b22,#1e3a8a,#2563eb,#3b82f6,#38bdf8
+
+      - name: Remove progress bar from SVGs
+        run: |
+          sed -i 's/<rect class="u[^>]*\/>//g' dist/github-contribution-grid-snake.svg
+          sed -i 's/<rect class="u[^>]*\/>//g' dist/github-contribution-grid-snake-dark.svg
 
       - name: Push snake svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
