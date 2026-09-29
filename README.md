@@ -13,9 +13,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DeWeWO&show_icons=true&hide_rank=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DeWeWO&show_icons=true&hide_rank=true&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=c9d1d9&icon_color=58a6ff" height="175" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=DeWeWO&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="175" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=DeWeWO&background=00000000&hide_border=true&stroke=00000000&ring=38bdf8&fire=38bdf8&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="175" alt="Contribution Streak" />
 </div>
 
 <div align="center">
@@ -55,6 +55,7 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=DeWeWO&label=Views&style=flat-square&color=21262d" alt="Views" />
 </div>
+
 
 
 
