@@ -1,4 +1,4 @@
-﻿name: Generate Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -24,7 +24,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#0d1117,#1e3a8a,#2563eb,#3b82f6,#38bdf8
 
       - name: Push snake svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
