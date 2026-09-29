@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/terminal-code-v5.svg" width="100%" alt="Terminal Code" />
+  <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/terminal-code-v6.svg" width="100%" alt="Terminal Code" />
 </div>
 
 <br>
@@ -55,3 +55,4 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=DeWeWO&label=Views&style=flat-square&color=21262d" alt="Views" />
 </div>
+
