@@ -10,8 +10,6 @@
   <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/main/assets/cards/terminal-code-v6.svg" width="100%" alt="Terminal Code" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/DeWeWO/DeWeWO/output/stats-card.svg" height="175" alt="GitHub Stats" />
   &nbsp;
