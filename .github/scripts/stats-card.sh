@@ -5,8 +5,10 @@
 # OPEN items and its default commit count is current-year only. This script
 # queries GitHub directly so every number matches the profile's real data:
 #   - commits:       REST search, all-time, default branches
-#   - PRs / issues:  REST search, every PR/issue authored by the user
-#                    (open + closed + merged)
+#   - PRs / issues:  GraphQL connection totals — every PR/issue authored
+#                    by the user in any state (open + closed + merged).
+#                    (REST search/issues is NOT used: with an Actions
+#                    installation token it only counts open items.)
 #   - stars:         sum of stargazers over own non-fork repos (GraphQL)
 #   - contributions: contribution calendar total, summed year by year
 #                    (GraphQL caps contributionsCollection at 1 year/query)
@@ -23,9 +25,13 @@ search_total() {
 
 TOTAL_COMMITS=$(search_total commits "author:${USERNAME}")
 sleep 2
-TOTAL_PRS=$(search_total issues "is:pr author:${USERNAME}")
-sleep 2
-TOTAL_ISSUES=$(search_total issues "is:issue author:${USERNAME}")
+
+PR_ISSUES=$(gh api graphql \
+  -f query='query($login: String!) { user(login: $login) { pullRequests(first: 1) { totalCount } issues(first: 1) { totalCount } } }' \
+  -f login="${USERNAME}" \
+  --jq '[.data.user.pullRequests.totalCount, .data.user.issues.totalCount] | @tsv')
+TOTAL_PRS=$(cut -f1 <<<"${PR_ISSUES}")
+TOTAL_ISSUES=$(cut -f2 <<<"${PR_ISSUES}")
 
 TOTAL_STARS=$(gh api graphql \
   -f query='query($login: String!) { user(login: $login) { repositories(first: 100, ownerAffiliations: OWNER, isFork: false) { nodes { stargazerCount } } } }' \
