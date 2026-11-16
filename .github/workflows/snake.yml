@@ -37,6 +37,7 @@ jobs:
       - name: Generate stats card SVG
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: |
           bash .github/scripts/stats-card.sh dist/stats-card.svg
 

@@ -26,7 +26,10 @@ search_total() {
 TOTAL_COMMITS=$(search_total commits "author:${USERNAME}")
 sleep 2
 
-PR_ISSUES=$(gh api graphql \
+# PR/issue totals use STATS_TOKEN (user PAT) when available so contributions
+# to private repositories are counted; otherwise fall back to GITHUB_TOKEN
+# (public-only). Everything else stays public-scoped to match the streak card.
+PR_ISSUES=$(GH_TOKEN="${STATS_TOKEN:-$GH_TOKEN}" gh api graphql \
   -f query='query($login: String!) { user(login: $login) { pullRequests(first: 1) { totalCount } issues(first: 1) { totalCount } } }' \
   -f login="${USERNAME}" \
   --jq '[.data.user.pullRequests.totalCount, .data.user.issues.totalCount] | @tsv')
