@@ -31,7 +31,16 @@ jobs:
           sed -i 's/<rect class="u[^>]*\/>//g' dist/github-contribution-grid-snake.svg
           sed -i 's/<rect class="u[^>]*\/>//g' dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push snake svg to output branch
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/stats-card.sh dist/stats-card.svg
+
+      - name: Push svg files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
