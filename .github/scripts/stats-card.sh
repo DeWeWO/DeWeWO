@@ -28,11 +28,20 @@ sleep 2
 
 # PR/issue totals use STATS_TOKEN (user PAT) when available so contributions
 # to private repositories are counted; otherwise fall back to GITHUB_TOKEN
-# (public-only). Everything else stays public-scoped to match the streak card.
-PR_ISSUES=$(GH_TOKEN="${STATS_TOKEN:-$GH_TOKEN}" gh api graphql \
-  -f query='query($login: String!) { user(login: $login) { pullRequests(first: 1) { totalCount } issues(first: 1) { totalCount } } }' \
-  -f login="${USERNAME}" \
-  --jq '[.data.user.pullRequests.totalCount, .data.user.issues.totalCount] | @tsv')
+# (public-only). A bad/expired STATS_TOKEN also falls back instead of
+# failing the run, so the snake and card never stop updating.
+PR_ISSUES_QUERY='query($login: String!) { user(login: $login) { pullRequests(first: 1) { totalCount } issues(first: 1) { totalCount } } }'
+PR_ISSUES=""
+if [ -n "${STATS_TOKEN:-}" ]; then
+  PR_ISSUES=$(GH_TOKEN="${STATS_TOKEN}" gh api graphql \
+    -f query="${PR_ISSUES_QUERY}" -f login="${USERNAME}" \
+    --jq '[.data.user.pullRequests.totalCount, .data.user.issues.totalCount] | @tsv' 2>/dev/null) || PR_ISSUES=""
+fi
+if [ -z "${PR_ISSUES}" ]; then
+  PR_ISSUES=$(gh api graphql \
+    -f query="${PR_ISSUES_QUERY}" -f login="${USERNAME}" \
+    --jq '[.data.user.pullRequests.totalCount, .data.user.issues.totalCount] | @tsv')
+fi
 TOTAL_PRS=$(cut -f1 <<<"${PR_ISSUES}")
 TOTAL_ISSUES=$(cut -f2 <<<"${PR_ISSUES}")
 
