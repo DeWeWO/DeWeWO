@@ -18,6 +18,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake svg files
         uses: Platane/snk/svg-only@v3
         with:
@@ -30,9 +33,6 @@ jobs:
         run: |
           sed -i 's/<rect class="u[^>]*\/>//g' dist/github-contribution-grid-snake.svg
           sed -i 's/<rect class="u[^>]*\/>//g' dist/github-contribution-grid-snake-dark.svg
-
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
       - name: Generate stats card SVG
         env:
